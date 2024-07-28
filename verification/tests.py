@@ -10,7 +10,7 @@ Each test is a dict with
 
 TESTS = {
     "Basics": [
-        [
+        
     {
         "input": [150.0, 10.0],
         "answer": (15.00, "Sem Necessidade de Revisão")
@@ -27,6 +27,6 @@ TESTS = {
         "input": [200.0, 30.0],
         "answer": (6.67, "Revisão Recomendada")
     }
-]
+
     ]
 }

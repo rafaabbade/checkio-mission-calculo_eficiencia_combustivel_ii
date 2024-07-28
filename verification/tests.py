@@ -13,19 +13,19 @@ TESTS = {
         
     {
         "input": [150.0, 10.0],
-        "answer": 15.00, "Sem Necessidade de Revisão"
+        "answer": [15.00, "Sem Necessidade de Revisão"]
     },
     {
         "input": [50.0, 5.0],
-        "answer": 10.00, "Sem Necessidade de Revisão"
+        "answer": [10.00, "Sem Necessidade de Revisão"]
     },
     {
         "input": [50.0, 10.0],
-        "answer": 5.00, "Revisão Recomendada"
+        "answer": [5.00, "Revisão Recomendada"]
     },
     {
         "input": [200.0, 30.0],
-        "answer": 6.67, "Revisão Recomendada"
+        "answer": [6.67, "Revisão Recomendada"]
     }
 
     ]
